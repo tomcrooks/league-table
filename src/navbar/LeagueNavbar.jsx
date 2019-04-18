@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import LeagueTable from './LeagueTable';    
+import LeagueTable from '../table/LeagueTable';    
 
 class LeagueNavbar extends Component {
     // state = {}
